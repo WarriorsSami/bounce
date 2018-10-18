@@ -1,0 +1,82 @@
+body{
+	background-image: url("../images/bgr2.jpg");
+	background-repeat: no-repeat;
+	background-size: auto;
+	height: 100%;
+}
+.buton{
+	position: fixed;
+	top:10px;
+	right:50px;
+	font-size:50px;
+
+}
+.buton a{
+color:#14ff62;
+text-shadow: 2px 2px #2d9624;
+}
+.buton a:hover{
+	color:#09a33c;
+	text-shadow: none;
+}
+.titlul{
+	font-family: 'Monoton', cursive;
+	text-align: center;
+	font-size: 39px;
+	letter-spacing: 2.5px;
+    text-shadow: 1.5px 1.5px #ff0000;
+}
+.nrtlf{
+	
+	 font-family: 'Cabin Sketch', cursive;
+	 padding: none;
+	 margin:none;
+	 border: none;
+	 line-height: 59px;
+	 font-size: 55px;
+	 text-align: 60%;
+	 position: fixed;
+	 transform:translateY(-23px);
+}
+.nrtlf .zero{
+	margin-top: 20px;
+	transform: translate(40px,-10px) rotate(-20deg);
+}
+.nrtlf .sapte1{
+
+	transform: translate(10px) rotate(30deg);
+}
+.nrtlf .sase{
+	transform: translate(-20px,-10px) rotate(-45deg);
+}
+.nrtlf .sapte2{
+	transform:translate(25px,-5px) rotate(-10deg);
+}
+.nrtlf .unu1{
+	font-size: 62px;
+	transform: translate(-11px,-10px) rotate(-7deg);
+}
+.nrtlf .doi{
+	transform: translate(25px,-6px) rotate(10deg);
+}
+.nrtlf .cinci{
+	transform: skewX(-10deg);
+}
+.nrtlf .unu2{
+	font-size:62px;
+	transform:rotate(10deg) translate(35px,-15px) skewX(-6deg);
+}
+.nrtlf .patru{
+	font-size: 61px;
+	transform:translate(55px,-8px) rotate(20deg) skewX(15deg);
+}
+.nrtlf .trei{
+	transform:translate(20px,-17px) rotate(-30deg);
+}
+.ema{
+	position:fixed;
+	font-family: 'Love Ya Like A Sister', cursive;
+	font-size:24px;
+	transform:rotate(-18deg) translate(20px,80px);
+	color:#1f1f2e;
+}

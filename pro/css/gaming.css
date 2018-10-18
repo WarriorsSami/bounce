@@ -1,0 +1,61 @@
+html ,body{
+background-image: linear-gradient(to right, #60ffd7 ,#1a9ebf,rgb(56, 255, 72,0.5) ,#3187f7,#21ffcb );
+margin-bottom: 100px;
+}.buton{
+	position: fixed;
+	top:10px;
+	right:50px;
+	font-size:50px;
+
+}
+#pubg{
+	position: fixed;
+	right:40px;
+	top:490px;
+}
+#csgo{
+	position:fixed;
+	right:40px;
+	top :120px;
+}
+#vid6{
+	transform: translate(190px,160px);
+}
+#vid5{
+	transform: translate(130px,160px);
+}
+#vid1{
+	transform: translate(130px,40px);
+}
+#vid2{
+	transform: translate(190px,40px);
+}
+#vid3{
+	transform:translate(130px,100px);
+}
+#vid4{
+	transform: translate(190px,100px);
+}
+#titlul{
+
+	text-align: center;
+	font-family: 'Hanalei Fill', cursive;
+	font-size: 57px;
+	margin-top: 20px;
+	text-shadow: 2px 2px lightblue;
+	padding-bottom: 10px;
+	border-color: #ffe6d0;
+	border-style: groove; 
+	border-right:  none;
+	border-left: none;
+	border-top: none;
+	margin-bottom: none;
+}
+#text1{
+	font-family: 'Bungee Inline', cursive;
+	color:#9c45e8;
+	font-size: 30px;
+	font-weight: 100;
+	text-align: center;
+
+}
